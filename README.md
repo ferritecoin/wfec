@@ -44,32 +44,24 @@ Proof-of-Work cryptocurrencies such as Ferrite do not have staking support, a wa
 Wrapped Ferrite can also be used for swapping, or as collateral for borrowing and lending for other tokens within DeFi platforms from a selection of networks.
 
 ## Tokenomics
-### WFEC Supply Total:  $$\text{𝔽 }3&#8239;652&#8239;000.94566769$$  
+### WFEC Supply Total:  $$\text{𝔽 }3&#8239;502&#8239;000.94566769$$  
 
-**WFEC BEP-20**: 𝔽 3&#8239;649&#8239;999.99995809<br>  
+**WFEC BEP-20**: 𝔽 3&#8239;499&#8239;999.99995809<br>  
 **WFEC ARB-20**: 𝔽  2&#8239;000.94570960<br>  
 
-Summarised detail: (Tentative, accurate as of 24 Apr 2024)  
+Summarised detail: (Tentative, accurate as of 4 Jun 2024)  
 
 ### Signed Reserves:
-$$\text{𝔽 }1&#8239;300&#8239;000.10000000$$  
+$$\text{𝔽 }1&#8239;400&#8239;000.10000000$$  
 
 Eligible in Liquidity Pools, exchanges:  
-FEC: 𝔽 3&#8239;381&#8239;317  
-wFEC: 𝔽 306&#8239;555  
-USDT: ₮ 540  
-
-### Total Assets:  
-$$\approx\text{𝔽 }4&#8239;987&#8239;872$$  
-
-$$\approx\text{USD₮ }540.00$$   
+FEC: 𝔽 2&#8239;492&#8239;367  
+wFEC: 𝔽 330&#8239;925
+USDT: ₮ 497  
 
 Current reserve ratio  
 Registered  
-FEC: 35.62%  
-Eligible  
-FEC: 92.64%  
-wFEC: 8.40%  
+FEC: 40.00%  
 
 Proof of reserves (registered)  
 Ferrite Address:  
